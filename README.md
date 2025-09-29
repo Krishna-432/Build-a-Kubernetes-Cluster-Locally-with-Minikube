@@ -43,7 +43,6 @@ minikube start --driver=docker
 
 ✅ **What we achieved:** A local Kubernetes cluster running inside Docker.
 
-📸 *Screenshots: 
 
 
 
@@ -57,7 +56,7 @@ kubectl get nodes
 
 ✅ **What we achieved:** Node(s) are ready.
 
-📸 *Screenshot: kubectl get nodes*
+
 
 
 
@@ -101,7 +100,7 @@ kubectl apply -f deployment.yaml
 
 ✅ **What we achieved:** 2 pods running NGINX.
 
-📸 *Screenshot: kubectl get deployments and kubectl get pods*
+
 
 
 
@@ -134,7 +133,7 @@ kubectl apply -f service.yaml
 
 ✅ **What we achieved:** Pods exposed via NodePort service.
 
-📸 *Screenshot: kubectl get services*
+
 
 
 ---
@@ -147,7 +146,7 @@ minikube service hello-service
 
 ✅ **What we achieved:** Opened NGINX welcome page in browser.
 
-📸 *Screenshot: Browser showing NGINX default page*
+
 
 
 
@@ -163,7 +162,7 @@ kubectl get pods
 
 ✅ **What we achieved:** Deployment scaled to 4 pods.
 
-📸 *Screenshot: kubectl get pods (4 pods running)*
+
 
 
 
@@ -179,7 +178,7 @@ kubectl logs <pod-name>
 
 ✅ **What we achieved:** Checked pod details & logs.
 
-📸 *Screenshot: kubectl describe deployment output*
+
 
 
 

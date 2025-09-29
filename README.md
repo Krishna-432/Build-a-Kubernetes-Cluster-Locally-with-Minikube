@@ -136,7 +136,6 @@ kubectl apply -f service.yaml
 
 📸 *Screenshot: kubectl get services*
 
-<img width="1919" height="1018" alt="Screenshot 2025-09-29 152735" src="https://github.com/user-attachments/assets/9baadc78-3830-4a25-a4ae-084a23a3c7f1" />
 
 ---
 

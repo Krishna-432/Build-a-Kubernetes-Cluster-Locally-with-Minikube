@@ -185,5 +185,5 @@ kubectl logs <pod-name>
 
 ---
 
-## 🎯
+
 
